@@ -51,3 +51,5 @@ Orchid is an Ethereum project; our community is part of the Ethereum community, 
 Ethereum is at an important inflection point in its evolution, as increased demand continues to put upward pressure on gas fees. The long-term solution for this issue is to extend support to any EVM-compatible chain in order to enable people to use the Orchid network for as little as $1. Multi-chain compatibility brings the Orchid network one step closer to making online privacy available to everyone, everywhere.
 
 [Download the Orchid app](www.orchid.com/download) today to start exploring the Internet freely.
+
+
